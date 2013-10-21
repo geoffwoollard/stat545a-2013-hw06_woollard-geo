@@ -4,6 +4,7 @@ stat545a-2013-hw06_woollard-geo
 These scripts examines world demographics, as part of a university course taught by [Dr. Jennifer Bryan](http://www.stat.ubc.ca/~jenny/). 
 Her course materials are [here](https://github.com/jennybc/STAT545A). 
 The [official gapminder site](http://www.gapminder.org/) has videos.
+I drew from [stackoverflow](http://stackoverflow.com/) threads, and examples from Dr. Bryan and classmates. I have attributed in the code as much as I can reasonably recall at this time.
 
 To examine life expectancy and population the world over, first clone the repository, then run the shell script `setup.sh`. 
 
