@@ -12,6 +12,20 @@ git clone https://github.com/geoffwoollard/stat545a-2013-hw06_woollard-geo.git
 cd stat545a-2013-hw06_woollard-geo
 chmod u+x setup.sh
 ./setup.sh
+
+###output###
+ls -ltr	fig
+#lifeExp_year_density.pdf	# life expectancy changes over time
+#korea_north_vs_south.pdf	# GDP per capita of North and South Korea
+#outliers_top.pdf
+#outliers_Africa.pdf			# ... for respective continents
+#outliers_Asia.pdf			# linear model (life expectancy ~ year), comparing robust and ordinary methods
+#outliers_Americas.pdf
+#outliers_Europe.pdf
+
+ls -ltr data
+# gapminderDataFiveYear.txt			# gapminder data from Dr. Bryan
+# clean_gapminderDataFiveYear.tsv	# cleaned gapminder data without Oceania (New Zealand and Australia)
 ```
 
 # Requirements:
