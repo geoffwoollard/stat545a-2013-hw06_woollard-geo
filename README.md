@@ -31,7 +31,7 @@ ls -ltr data
 # Requirements:
 * Linux or Mac OS X
 * [R](http://www.r-project.org/), specifically the `Rscript` command-line interface
-# R packages: `plyr`, `lattice`, `MASS`, `foreign`
+* R packages: `plyr`, `lattice`, `MASS`, `foreign`
 * [curl](http://linux.about.com/od/commands/l/blcmdl1_curl.htm)
 
 
